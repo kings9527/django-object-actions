@@ -2,6 +2,15 @@
 
 <!-- version list -->
 
+## v5.1.1 (2026-05-22)
+
+### Bug Fixes
+
+- **docs**: Fix missing changelog entries
+  ([#198](https://github.com/crccheck/django-object-actions/pull/198),
+  [`2799179`](https://github.com/crccheck/django-object-actions/commit/279917951083f69f755ddfe049c1674c3299c104))
+
+
 ## v5.1.0 (2026-05-22)
 
 _This release is published under the Apache-2.0 License._
